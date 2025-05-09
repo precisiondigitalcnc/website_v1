@@ -1,4 +1,4 @@
-h1 {
+1 {
     color: rgb(85, 208, 230);
     font-weight: bold;
     font-family: Verdana, Geneva, Tahoma, sans-serif ;
@@ -19,8 +19,8 @@ h2 {
 
 
 h3 {
-    color: rgb(19, 233, 37);
-    font-size: 12PX;
+    color: rgb(233, 233, 19);
+    font-size: 18PX;
     text-align: center;
     vertical-align: middle;   
 }
